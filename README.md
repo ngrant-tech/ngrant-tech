@@ -7,9 +7,19 @@ Building enterprise IT labs focused on Windows Server, Active Directory, Microso
 </p>
 
 <p align="center">
+
+<a href="https://linkedin.com/in/ngrant-tech">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+</a>
+
+<a href="mailto:nicholasgrant02@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://github.com/ngrant-tech">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
 </p>
 
 ---
@@ -17,7 +27,7 @@ Building enterprise IT labs focused on Windows Server, Active Directory, Microso
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ENTERPRISE_NETWORK_INFRASTRUCTURE-111111?style=for-the-badge&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/ENTERPRISE_NETWORK_INFRASTRUCTURE_DEPLOYMENT-111111?style=for-the-badge&logoColor=8B5CF6"/>
 </p>
 
 ---
@@ -76,6 +86,12 @@ Focused on building and supporting enterprise IT environments with an emphasis o
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
+  
+<a href="https://linkedin.com/in/ngrant-tech">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+</a>
+<a href="mailto:nicholasgrant02@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+  
 </p>
