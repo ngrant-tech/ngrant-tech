@@ -1,32 +1,24 @@
-<h1 align="center">Hi, I'm Nicholas Grant</h1>
+<h1 align="center">Hi, I'm Nicholas Grant!</h1>
 
-<h3 align="center">IT Support • Network Support</h3>
+<h3 align="center">IT Support & Network Support</h3>
 
 <p align="center">
 Building enterprise IT labs focused on Windows Server, Active Directory, Microsoft 365, Cisco Networking, and real-world troubleshooting.
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ngrant-tech">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nicholasgrant02@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ngrant-tech">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </p>
 
 ---
 
 <h2 align="center">Current Focus</h2>
 
-- Building enterprise IT Support and Network Support labs
-- Designing Cisco enterprise network infrastructures
-- Administering Microsoft 365 and Entra ID environments
-- Deploying Windows Server and Active Directory environments
-- Expanding hands-on enterprise infrastructure knowledge
+<p align="center">
+<img src="https://img.shields.io/badge/ENTERPRISE_NETWORK_INFRASTRUCTURE-111111?style=for-the-badge&logoColor=8B5CF6"/>
+</p>
 
 ---
 
@@ -37,12 +29,12 @@ Building enterprise IT labs focused on Windows Server, Active Directory, Microso
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Windows%20Server-111111?style=for-the-badge&logo=windows&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Active%20Directory-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20365-111111?style=for-the-badge&logo=microsoftoffice&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Entra%20ID-111111?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/WINDOWS_SERVER-111111?style=for-the-badge&logo=windows&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MICROSOFT_365-111111?style=for-the-badge&logo=microsoftoffice&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/ENTRA_ID-111111?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/CISCO-111111?style=for-the-badge&logo=cisco&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/VIRTUALBOX-111111?style=for-the-badge&logo=virtualbox&logoColor=8B5CF6"/>
 </p>
 
 ---
@@ -59,9 +51,9 @@ Building enterprise IT labs focused on Windows Server, Active Directory, Microso
 <h2 align="center">Certifications</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CompTIA-A%2B-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CompTIA-Network%2B-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPTIA_A+-111111?style=for-the-badge&labelColor=111111&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/NETWORK+-111111?style=for-the-badge&labelColor=111111&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/SECURITY+-111111?style=for-the-badge&labelColor=111111&color=8B5CF6"/>
 </p>
 
 ---
@@ -69,7 +61,14 @@ Building enterprise IT labs focused on Windows Server, Active Directory, Microso
 <h2 align="center">Career Objective</h2>
 
 <p align="center">
-I'm currently pursuing opportunities in <b>IT Support, Network Support, and Junior Systems Administration</b>, with a strong focus on enterprise infrastructure, Microsoft technologies, and networking.
+Focused on building and supporting enterprise IT environments with an emphasis on infrastructure reliability, network operations, and identity management systems. Seeking opportunities in IT Support, Network Support, and early-career systems administration roles where I can apply hands-on technical experience in real-world environments.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OPEN_TO-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IT_SUPPORT-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORK_SUPPORT-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM_ADMINISTRATION-111111?style=for-the-badge"/>
 </p>
 
 ---
@@ -77,10 +76,6 @@ I'm currently pursuing opportunities in <b>IT Support, Network Support, and Juni
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/ngrant-tech">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nicholasgrant02@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </p>
