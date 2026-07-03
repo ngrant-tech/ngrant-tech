@@ -1,168 +1,86 @@
-<div align="center">
+<h1 align="center">Hi, I'm Nicholas Grant</h1>
 
-# Nicholas Grant
+<h3 align="center">IT Support • Network Support • Enterprise Infrastructure</h3>
 
-### <span style="color:#8B5CF6;">IT Support | Network Support</span>
+<p align="center">
+Building enterprise IT labs focused on Windows Server, Active Directory, Microsoft 365, Cisco Networking, and real-world troubleshooting.
+</p>
 
-**CompTIA A+ • Network+ • Security+**
-
-I build, troubleshoot, and secure IT environments that keep businesses running.
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="32%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/ngrant-tech.png" width="230" style="border-radius:50%;" />
-
-# Nicholas Grant
-
-### IT Support | Network Support
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/ngrant-tech">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nicholasgrant02@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/ngrant-tech">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### Core Skills
+<h2 align="center">Current Focus</h2>
 
-💻 **System Administration**  
-🌐 **Network Troubleshooting**  
-👥 **Identity & Access Management**  
-🛡️ **Microsoft 365 & Security**  
-🛠️ **IT Support & Problem Solving**
-
----
-
-### My Mission
-
-To solve real-world IT problems, document enterprise-style projects, and continuously level up while helping businesses and users succeed with technology.
-
-</td>
-
-<td width="68%" valign="top">
-
-## 💻 About Me
-
-Entry-level IT professional with hands-on experience in **system administration, network support, Microsoft 365, Active Directory, Windows Server, and Cisco networking**.
-
-I enjoy solving real-world IT problems, building efficient solutions, and continuously learning to stay ahead in tech.
+- Building enterprise IT Support and Network Support labs
+- Designing Cisco enterprise network infrastructures
+- Administering Microsoft 365 and Entra ID environments
+- Deploying Windows Server and Active Directory environments
+- Expanding hands-on enterprise infrastructure knowledge
 
 ---
 
-## 🎯 What I Do
+<h2 align="center">Technical Skills</h2>
 
-<table>
-<tr>
-<td align="center" width="25%">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,powershell,git,github,vscode"/>
+</p>
 
-### 💻  
-**Diagnose & Resolve**  
-IT issues
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️  
-**Administer**  
-systems, users & devices
-
-</td>
-<td align="center" width="25%">
-
-### 🌐  
-**Troubleshoot**  
-network problems
-
-</td>
-<td align="center" width="25%">
-
-### 🛡️  
-**Secure**  
-identities & access
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Windows%20Server-111111?style=for-the-badge&logo=windows&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Active%20Directory-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-111111?style=for-the-badge&logo=microsoftoffice&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Entra%20ID-111111?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=8B5CF6"/>
+</p>
 
 ---
 
-## 📁 Featured Projects
+<h2 align="center">Featured Repositories</h2>
 
-| Project | Focus |
-|---|---|
-| [Active Directory Infrastructure & Domain Integration](https://github.com/ngrant-tech/Active-Directory-Infrastructure-and-Domain-Integration) | Windows Server |
-| [Domain Join Failure – Multi-Layer Network Remediation](https://github.com/ngrant-tech/Domain-Join-Failure-Multi-Layer-Network-Remediation) | Troubleshooting |
-| [IT Support Ticket Simulations](https://github.com/ngrant-tech/IT-Support-Portfolio) | IT Support |
-| [Microsoft 365 Identity Lifecycle Administration](https://github.com/ngrant-tech/Microsoft-365-Identity-Lifecycle-Administration) | Microsoft 365 |
-| [Enterprise Hotel Network Infrastructure Deployment](https://github.com/ngrant-tech/Enterprise-Hotel-Network-Infrastructure-Deployment) | Networking |
-| [Network Support Portfolio](https://github.com/ngrant-tech/Network-Support-Portfolio) | Cisco / VLANs |
+| Repository | Description |
+|------------|-------------|
+| [**IT Support Portfolio**](https://github.com/ngrant-tech/IT-Support-Portfolio) | Hands-on IT support projects covering Active Directory infrastructure, domain join troubleshooting, Windows client and server ticket simulations, and Microsoft 365 identity lifecycle administration. |
+| [**Network Support Portfolio**](https://github.com/ngrant-tech/Network-Support-Portfolio) | Enterprise networking projects built in Cisco Packet Tracer, including VLANs, inter-VLAN routing, DHCP, SSH, wireless networking, routing protocols, and network segmentation. |
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h2 align="center">Certifications</h2>
 
-## 🏅 Certifications
-
-![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Certified-8B5CF6?style=for-the-badge)
-![Network+](https://img.shields.io/badge/CompTIA%20Network%2B-Certified-8B5CF6?style=for-the-badge)
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-8B5CF6?style=for-the-badge)
-
-</td>
-<td width="50%" valign="top">
-
-## ✈️ Let's Connect
-
-📞 **(404) 468-1920**  
-📧 **nicholasgrant02@gmail.com**  
-🔗 **linkedin.com/in/ngrant-tech**  
-🐙 **github.com/ngrant-tech**
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/CompTIA-A%2B-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA-Network%2B-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-8B5CF6?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧰 Technical Tools
+<h2 align="center">Career Objective</h2>
 
-![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=8B5CF6)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-111111?style=for-the-badge&logo=windows&logoColor=8B5CF6)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-111111?style=for-the-badge&logo=microsoftoffice&logoColor=8B5CF6)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-111111?style=for-the-badge&logo=microsoftazure&logoColor=8B5CF6)
-![Cisco](https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=8B5CF6)
-![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=8B5CF6)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=8B5CF6)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=8B5CF6)
+<p align="center">
+I'm currently pursuing opportunities in <b>IT Support, Network Support, and Junior Systems Administration</b>, with a strong focus on enterprise infrastructure, Microsoft technologies, and networking.
+</p>
 
 ---
 
-## 📊 GitHub Activity
+<h3 align="center">Let's Connect</h3>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ngrant-tech&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngrant-tech&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ngrant-tech&theme=midnight-purple&hide_border=true" />
-
-</div>
-
----
-
-## ⚡ Currently Open To
-
-**IT Support / Network Support / System Administrator** opportunities.
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://linkedin.com/in/ngrant-tech">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nicholasgrant02@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
