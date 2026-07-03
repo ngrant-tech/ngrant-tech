@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nicholas Grant</h1>
 
-<h3 align="center">IT Support • Network Support • Enterprise Infrastructure</h3>
+<h3 align="center">IT Support • Network Support</h3>
 
 <p align="center">
 Building enterprise IT labs focused on Windows Server, Active Directory, Microsoft 365, Cisco Networking, and real-world troubleshooting.
