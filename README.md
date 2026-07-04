@@ -6,7 +6,7 @@ I build enterprise IT labs focused on Windows Server, Active Directory, Microsof
 
 <p align="center">
 
-<a href="https://github.com/ngrant-tech">
+<a href="https://github.com/ngrant-tech?tab=repositories">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
