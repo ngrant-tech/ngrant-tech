@@ -1,20 +1,10 @@
 <h1 align="center">Hi, I'm Nicholas Grant!</h1>
 
-<h3 align="center">IT Support & Network Support</h3>
-
 <p align="center">
-Building enterprise IT labs focused on Windows Server, Active Directory, Microsoft 365, Cisco Networking, and real-world troubleshooting.
+I build enterprise IT labs focused on Windows Server, Active Directory, Microsoft 365, Cisco Networking, and real-world troubleshooting.
 </p>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/ngrant-tech">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
-</a>
-
-<a href="mailto:nicholasgrant02@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
 
 <a href="https://github.com/ngrant-tech">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
