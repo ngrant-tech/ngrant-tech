@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nicholas Grant!</h1>
+<h1 align="center">Hi, I'm Nicholas Grant</h1>
 
 <p align="center">
 I build enterprise IT labs focused on Windows Server, Active Directory, Microsoft 365, Cisco Networking, and real-world troubleshooting.
